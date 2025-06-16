@@ -10,3 +10,12 @@ https://github.com/
 
 2
 https://docs.github.com/en/get-started/quickstart
+
+## Struktura repozytorium
+---
+
+- `AXURE/` – katalog na pliki projektu wykonane w Axure
+- `HTML/` – katalog na pliki projektu wykonane w HTML
+- `README.md` – ten plik z opisem repozytorium
+
+---
